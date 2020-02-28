@@ -7,7 +7,6 @@ import * as serviceWorker from "./serviceWorker";
 
 ReactDOM.render(
   <Router>
-    {/*to enable routing*/}
     <App />
   </Router>,
   document.getElementById("root")
